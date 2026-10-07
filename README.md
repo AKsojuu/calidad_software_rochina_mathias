@@ -1,4 +1,5 @@
 # Calidad de Software
+## Autor: Mathias Rochina
 
 Este repositorio contiene materiales y actividades relacionados con la materia **Calidad de Software**.
 
